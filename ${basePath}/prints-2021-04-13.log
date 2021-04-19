@@ -1,0 +1,8 @@
+15:42:58.302 [TestNG-tests-1] INFO  Academy.ValidateNavigationBar - Hit the url
+15:42:58.306 [TestNG-tests-3] INFO  Academy.ValidateTitle - Hit the url
+15:42:59.578 [TestNG-tests-2] INFO  Academy.Basepage - Clicked login
+15:42:59.962 [TestNG-tests-2] INFO  Academy.Basepage - Entered credentials
+15:43:23.476 [TestNG-tests-2] INFO  Academy.Basepage - Clicked login
+15:43:23.765 [TestNG-tests-2] INFO  Academy.Basepage - Entered credentials
+15:53:46.199 [TestNG-tests-3] INFO  Academy.ValidateTitle - Driver initialized
+15:53:46.199 [TestNG-tests-1] INFO  Academy.ValidateNavigationBar - Driver initialized

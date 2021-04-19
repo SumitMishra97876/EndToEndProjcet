@@ -1,0 +1,8 @@
+22:10:33.298 [main] INFO  Academy.Basepage - Driver initialized
+22:10:45.057 [main] INFO  Academy.ValidateNavigationBar - Driver initialized
+22:10:51.620 [main] INFO  Academy.ValidateNavigationBar - Hit the url
+22:10:52.728 [main] INFO  Academy.ValidateTitle - Driver initialized
+22:11:01.817 [main] INFO  Academy.ValidateTitle - Hit the url
+22:11:08.499 [main] INFO  Academy.Basepage - Clicked login
+22:11:08.582 [main] INFO  Academy.Basepage - Entered credentials
+22:11:08.796 [main] INFO  Academy.Basepage - Clicked on submit
